@@ -29,7 +29,7 @@ Working Experience
 <img
      align="left"
         width="50px"
-        src="https://user-images.githubusercontent.com/40071882/163423840-fd9d707f-43f4-4697-a2c8-049045da4a5f.png"
+        src="https://user-images.githubusercontent.com/40071882/163427635-dc36c15e-26de-4883-a1ab-1816bae2a760.png"
       />
 2018-2021  
 **Student Assistant at Fraunhofer Heinrich-Hertz-Institute, Berlin**  
