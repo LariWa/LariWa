@@ -1,7 +1,9 @@
 ### Hi there 👋
 I am Larissa and currently studying Interactive Media Technology at the KTH Royal Institute of Technology in Stockholm.  
-![ryA8tAg-_400x400](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![ryA8tAg-_400x400]( 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="https://se.linkedin.com/in/larissa-wagnerberger-4941a516b">
+![ryA8tAg-_400x400](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:larissa.wagnerberger@gmail.com">
+![ryA8tAg-_400x400](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 Education
 -------
