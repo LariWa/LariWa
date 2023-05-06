@@ -31,11 +31,21 @@ Working Experience
  <img
      align="left"
         width="50px"
-        height="50px"
-        src="https://user-images.githubusercontent.com/40071882/163421545-5e430da1-25b5-4692-a8de-1d8ad62a8af4.png"
+        src="https://www.pngkey.com/png/detail/180-1800827_ericsson-ericsson-logo.png"
       /> 
-2022-now  
-**Teacher and Research Assistant**, KTH Royal Institute of Technology, Stockholm
+2023   
+**Master thesis**, Ericsson, Stockholm   
+-Asymmetric collaboration in VR
+
+<img
+     align="left"
+        width="50px"
+        src="https://user-images.githubusercontent.com/40071882/236633719-68848c52-fad5-4378-b838-4a2e56794ec2.png"
+      /> 
+2022   
+**Teacher and Research Assistant**, KTH Royal Institute of Technology, Stockholm   
+-Lab support and project coach for the course Interaction Programming and the Dynamic Web  
+-Development of VR application to debug JS code 
 
 <img
      align="left"
